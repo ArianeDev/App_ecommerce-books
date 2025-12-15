@@ -1,5 +1,6 @@
 # App biblioteca
-O aplicativo consiste em um aplicativo desenvolvido em Flutter que simula um aplicativo de ecommerce.
+O aplicativo consiste em um aplicativo desenvolvido em Flutter que simula um aplicativo de ecommerce que faz a venda de livros físicos.
+As imagens são salvas dentro da pasta ```/img``` na raiz do projeto, salvando no banco de dados somente o caminho.
 
 Possível ser acessado por dois tipo de usuário, sendo eles o usuário comum e o admin.
 
